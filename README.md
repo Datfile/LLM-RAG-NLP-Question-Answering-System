@@ -13,28 +13,6 @@ Interactive Interface: Jupyter Notebook with widgets for easy interaction
 
 Sample Document: Pre-loaded example to test the system immediately
 
-Installation
-Clone the repository:
-
-bash
-git clone https://github.com/yourusername/llm-rag-nlp-qa.git
-cd llm-rag-nlp-qa
-Create and activate a virtual environment (recommended):
-
-bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-Usage
-Launch Jupyter Notebook:
-
-bash
-jupyter notebook
-Open LLM_RAG_NLP_QA.ipynb
-
 Follow these steps in the notebook:
 
 Paste your document text or upload a file
